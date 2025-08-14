@@ -27,11 +27,4 @@ Este proyecto es una aplicación de consola en Python para gestionar una bibliot
 2. Usa el menú para gestionar los libros.
 3. Los cambios se guardan automáticamente al salir.
 
-## Requisitos
-- Python 3.x
-
-## Notas
-- El sistema maneja errores como intentar eliminar o prestar libros inexistentes o ya prestados.
-- Puedes modificar y ampliar las clases para agregar más funcionalidades.
-
 ---
